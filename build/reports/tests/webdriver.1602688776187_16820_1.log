@@ -1,0 +1,7 @@
+1602688776458	geckodriver	INFO	Listening on 127.0.0.1:22378
+1602688776926	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoJ0287"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602688781010	Marionette	INFO	Listening on port 41901
+1602688781050	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1602688789125	Marionette	INFO	Stopped listening on port 41901
